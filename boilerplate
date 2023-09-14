@@ -8,9 +8,11 @@
 			"#define ll long long",
 			"#define fl(n) for (int i = 0; i < n; i++)",
 			"#define flj(n) for (int j = 0; j < n; j++)",
+			"#define ap(vec) for_each(vec.begin(), vec.end(), print)",
+			"void print(int i) cout <<' ' << i;",
 			"int main()",
 			"{\n",
-			"ll i,j,a,b,c;",
+			"ll x,y,z,a,b,c,ans,count=0;",
 			" $1\n",
 			" return 0;",
 			"}"
